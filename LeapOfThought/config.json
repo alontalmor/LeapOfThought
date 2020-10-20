@@ -1,0 +1,108 @@
+{
+    "ExampleArtiset": {
+        "max_number_of_examples": 5000,
+        "debug": false,
+        "test_dev_size": [
+            500,
+            500
+        ]
+    },
+    "TaxonomicReasoning": {
+        "max_number_of_examples": 5000,
+        "debug": false,
+        "test_dev_size": [
+            500,
+            500
+        ]
+    },
+    "HypernymConjunction": {
+        "examples_per_answer_train": 150,
+        "examples_per_answer_dev": 80,
+        "max_number_of_examples": 500000,
+        "debug": false,
+        "test_dev_size": [
+            2000,
+            2000
+        ]
+    },
+    "AntonymSynonymNegation": {
+        "max_number_of_examples": 5000,
+        "debug": false,
+        "test_dev_size": [
+            0,
+            500
+        ]
+    },
+    "TwentyQuestions": {
+        "max_number_of_examples": -1,
+        "debug": false,
+        "test_dev_size": [
+            0,
+            4000
+        ]
+    },
+    "Hypernyms": {
+        "max_number_of_examples": -1,
+        "debug": true,
+        "test_dev_size": [
+            1400,
+            5000
+        ]
+    },
+    "Counting": {
+        "max_number_of_examples": -1,
+        "debug": true,
+        "test_dev_size": [
+            3000,
+            7000
+        ]
+    },
+    "Rover": {
+        "max_number_of_examples": -1,
+        "debug": false,
+        "test_dev_size": [
+            300000,
+            300000
+        ]
+    },
+    "Meronyms": {
+        "max_number_of_examples": -1,
+        "debug": true,
+        "test_dev_size": [
+            300000,
+            300000
+        ]
+    },
+    "ManualExamples": {
+        "max_number_of_examples": -1,
+        "debug": false,
+        "test_dev_size": [
+            0,
+            300000
+        ]
+    },
+    "Sizes": {
+        "max_number_of_examples": -1,
+        "debug": false,
+        "test_dev_size": [
+            0,
+            4000
+        ]
+    },
+    "ConceptNet": {
+        "max_number_of_examples": -1,
+        "debug": false,
+        "test_dev_size": [
+            0,
+            4000
+        ]
+    },
+    "ManualTemplates": {
+        "max_number_of_examples": -1,
+        "debug": false,
+        "test_dev_size": [
+            0,
+            300000
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+subject,predicate,object,source,validity
+animal,/r/Desires,have long live,manual,always true
+belly button,/r/PartOf,mammal,manual,always true
+refrain,hypernym,music,manual,irrelvant

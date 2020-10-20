@@ -1,0 +1,21 @@
+# This is the code base for AllenNLP i use for now...
+transformers==2.6.0
+git+git://github.com/alontalmor/allennlp.git@upstream-merge-10-4
+pandas
+jsonschema
+
+networkx
+
+inflect
+
+# Adds an @overrides decorator for better documentation and error checking when using subclasses.
+overrides==2.8.0
+
+# just for debuggin in pycharm , TODO remove this for final release...
+pytest-pycharm
+
+# Builds our documentation.
+# sphinx>=2.1.1
+xlrd
+
+rdflib
