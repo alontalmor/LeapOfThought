@@ -1,5 +1,5 @@
 # This is the code base for AllenNLP i use for now...
-transformers==2.6.0
+transformers==4.30.0
 git+git://github.com/alontalmor/allennlp.git@leap-of-thought
 pandas
 jsonschema
